@@ -1,5 +1,5 @@
 <img width="1920" height="1080" alt="Screenshot 2026-02-19 223502" src="https://github.com/user-attachments/assets/33b3ef8c-d1cc-4cf8-b6ca-697741e8eca1" />
-<img width="1920" height="1080" alt="Screenshot 2026-02-19 223502" src="https://github.com/user-attachments/assets/2ab9c5eb-e65b-4423-bb80-831d3b53a543" />
+
 <img width="1920" height="1080" alt="Screenshot 2026-02-19 223645" src="https://github.com/user-attachments/assets/9c51c038-cafc-492a-bef3-5fec2243b9fe" />
 # RES-Q-APP
 Res-Q is an emergency response application designed to provide immediate assistance during critical situations. The app enables users to send instant SOS alerts along with real-time location sharing to trusted contacts and nearby responders. Its goal is to minimize emergency response time and improve user safety through fast, reliable.
